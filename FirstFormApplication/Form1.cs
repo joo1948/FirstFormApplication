@@ -17,7 +17,7 @@ namespace FirstFormApplication
         {
             InitializeComponent();
 
-            myButton.Enabled = true;
+            myButton.Enabled = true;//true=> 화면에서 작동 가능
             myButton.Text = "안녕하세요";
             myButton.Width = 200;
 
